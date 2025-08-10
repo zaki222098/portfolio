@@ -1,0 +1,3 @@
+/* Minimal app overrides to keep styles clean */
+#root { min-height: 100%; }
+.logo, .read-the-docs, .card { /* remove vite demo classes scope */ }

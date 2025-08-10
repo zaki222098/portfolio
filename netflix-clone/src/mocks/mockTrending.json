@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 1,
+      "title": "Mock Movie One",
+      "name": null,
+      "overview": "A thrilling mock adventure in a world without API keys.",
+      "backdrop_path": "/tmock_backdrop1.jpg",
+      "poster_path": "/tmock_poster1.jpg",
+      "vote_average": 7.2,
+      "release_date": "2024-01-01"
+    },
+    {
+      "id": 2,
+      "title": "Mock Movie Two",
+      "name": null,
+      "overview": "The saga continues with even more mock drama.",
+      "backdrop_path": "/tmock_backdrop2.jpg",
+      "poster_path": "/tmock_poster2.jpg",
+      "vote_average": 8.1,
+      "release_date": "2024-02-15"
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}
